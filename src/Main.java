@@ -21,3 +21,5 @@ public class Main {
 //그냥 newbranch\
 //완성!!
 //이거는 NEw -> 3로 뻗음
+//이거는 NEw -> 3로 뻗음에서 개발완료 !!
+//다시 new로 합치자
